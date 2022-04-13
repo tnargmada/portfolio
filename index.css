@@ -1,0 +1,38 @@
+html {
+  background-color: #f0eceb;
+}
+
+#main {
+  margin-top: 10vh;
+  margin-bottom: 15vh;
+}
+
+#main h1 {
+  margin-bottom: 20px;
+}
+
+#main p {
+  margin-bottom: 0px;
+}
+
+a {
+  color: black !important;
+}
+a:hover {
+  color: #505050 !important;
+}
+
+.add-margin {
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.medium {
+  font-weight: 500;
+}
+
+.extra-info {
+  font-size: 1.4rem;
+  font-weight: normal;
+  font-style: italic;
+}
